@@ -1,0 +1,10 @@
+C:\Users\denim\source\repos\radioButton\radioButton\bin\Debug\radioButton.exe.config
+C:\Users\denim\source\repos\radioButton\radioButton\bin\Debug\radioButton.exe
+C:\Users\denim\source\repos\radioButton\radioButton\bin\Debug\radioButton.pdb
+C:\Users\denim\source\repos\radioButton\radioButton\obj\Debug\radioButton.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\radioButton\radioButton\obj\Debug\radioButton.Form1.resources
+C:\Users\denim\source\repos\radioButton\radioButton\obj\Debug\radioButton.Properties.Resources.resources
+C:\Users\denim\source\repos\radioButton\radioButton\obj\Debug\radioButton.csproj.GenerateResource.cache
+C:\Users\denim\source\repos\radioButton\radioButton\obj\Debug\radioButton.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\radioButton\radioButton\obj\Debug\radioButton.exe
+C:\Users\denim\source\repos\radioButton\radioButton\obj\Debug\radioButton.pdb
